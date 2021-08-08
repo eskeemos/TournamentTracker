@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uGBc91chyQduavK4Z5OCZxTmpD89BfjOCkZZpnxHTZq0ngn+Z/pmKh2SxHqb2+c1UFgr/b/Dam/2wcC/ZR4cNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krzys\\Desktop\\CSharp\\TournamentTracker\\TrackerLibrary\\TrackerLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krzys\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512"
+  ],
+  "logs": []
+}
